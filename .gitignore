@@ -1,0 +1,6 @@
+generations/*
+venv
+__pycache__/
+.idea/
+*.iml
+.env
