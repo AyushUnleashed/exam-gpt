@@ -1,0 +1,75 @@
+Syllabus:
+
+Module I:
+1. Basic of Cryptography
+2. Secret key cryptography
+3. Types of attack
+4. Substitution ciphers
+5. Transposition ciphers
+6. Block ciphers and stream ciphers
+7. Confusion and Diffusion
+8. Data encryption standard
+9. Round function
+10. Modes of operation
+11. Cryptanalysis
+12. Brute force attack
+13. Security Goals (Confidentiality, Integrity, Availability)
+
+Module II:
+1. Public key Cryptography
+2. Modulo arithmetic
+3. Greatest common divisor
+4. Euclidean algorithm
+5. RSA algorithm
+6. Hash function
+7. Attack on collision resistance
+8. Diffie Hellman key exchange
+9. Digital signature standard
+10. Elliptic curve cryptography
+
+Module III:
+1. Authentication: One way Authentication
+2. Password based
+3. Certificate based
+4. Mutual Authentication
+5. Secret based
+6. Asymmetric Authentication and key agreement
+7. Centralized Authentication
+8. Eavesdropping
+9. Kerberos
+10. IP security overview: security association & Encapsulating security payload
+11. Tunnel and transfer modes
+12. Internet key exchange protocol
+13. Secure Socket Layer(SSL)
+14. Transport Layer Security (TLS)
+
+Module IV:
+1. Software vulnerabilities: Phishing Attacks
+2. Buffer overflow vulnerability
+3. Format String attack
+4. Cross Site Scripting
+5. SQL injection Attacks
+6. Email security: Security services of E-mail
+7. Establishing keys
+8. Privacy
+9. Authentication of the source
+10. Message integrity
+11. Non-Repudiation
+12. Viruses
+13. Worms
+14. Malware
+
+Module V:
+1. Web Issue: Introduction
+2. Uniform Resource Locator/uniform resource identify
+3. HTTP
+4. Cookies
+5. Web security problem
+6. Penetration Testing
+7. Firewalls: functionality
+8. Policies and Access Control
+9. Packet filters
+10. Application level gateway
+11. Encrypted tunnel
+12. Security architecture
+13. Introduction to intrusion detection system
